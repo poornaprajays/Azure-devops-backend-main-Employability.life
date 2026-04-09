@@ -15,7 +15,7 @@ Make sure you have Node.js and npm installed on your machine.
 Clone the repository:
 
 ```bash
-git clone git@github.com:edfibre/azure-devops-backend.git
+git clone https://github.com/poornaprajays/Azure-devops-backend-main-Employability.life.git
 cd azure-devops-backend
 ```
 
