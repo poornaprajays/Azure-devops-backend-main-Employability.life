@@ -1,6 +1,6 @@
 # Nest.js Backend
 
-This is a simple Nest.js backend application that provides a 'hello world' message.
+This is a simple Nest.js backend application that provides a 'Hey Azure here' message.
 
 ## Getting Started
 
@@ -45,4 +45,4 @@ The server will start running on http://localhost:4000
 Open your browser and navigate to:
 http://localhost:4000/hello
 
-You should see a 'Hello World' message indicating that the server is running successfully.
+You should see a 'Hey Azure here' message indicating that the server is running successfully.
